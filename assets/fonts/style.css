@@ -1,0 +1,15 @@
+@font-face {
+   font-family: 'Ailerons';
+   font-display: swap;
+   src: url('Ailerons/font.ttf');
+}
+@font-face {
+   font-family: 'Hastage';
+   font-display: swap;
+   src: url('Hastage/font.ttf');
+}
+@font-face {
+   font-family: 'Parisish';
+   font-display: swap;
+   src: url('Parisish/font.ttf');
+}
