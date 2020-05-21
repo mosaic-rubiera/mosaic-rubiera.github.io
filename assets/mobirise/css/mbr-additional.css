@@ -1636,7 +1636,7 @@ section.lazy-placeholder:after {
 }
 .cid-rZrJYAbTOp {
   padding-top: 30px;
-  padding-bottom: 45px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-rZrJYAbTOp h2 {
@@ -1677,6 +1677,18 @@ section.lazy-placeholder:after {
     text-align: center;
     margin: 1rem 0 0 0;
   }
+}
+.cid-rZF1n6rvug {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rZF1n6rvug .mbr-text,
+.cid-rZF1n6rvug blockquote {
+  color: #767676;
+}
+.cid-rZF1n6rvug DIV {
+  text-align: center;
 }
 .cid-rZrOdPLg7u {
   padding-top: 30px;
