@@ -1875,6 +1875,29 @@ section.lazy-placeholder:after {
 .cid-rZrQYa80Lr .card-title {
   color: #7f1933;
 }
+.cid-s0d7vclV5j {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
+}
+.cid-s0d7vclV5j .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-s0d7vclV5j .section-text {
+  padding: 2rem 0;
+}
+.cid-s0d7vclV5j .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-s0d7vclV5j .inner-container {
+    width: 100% !important;
+  }
+}
 .cid-rZxNHwW0vK {
   padding-top: 30px;
   padding-bottom: 0px;
