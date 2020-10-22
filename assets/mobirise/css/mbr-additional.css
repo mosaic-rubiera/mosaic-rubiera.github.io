@@ -3552,6 +3552,10 @@ section.lazy-placeholder:after {
 }
 .cid-rZrZ0IWdPm .card-title {
   color: #7f1933;
+  text-align: left;
+}
+.cid-rZrZ0IWdPm .cost P {
+  text-align: left;
 }
 .cid-rZrZKIivCG {
   padding-top: 30px;
