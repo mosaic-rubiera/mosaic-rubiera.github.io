@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page4.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -110,7 +110,7 @@
     ],
     "versionFirst": "4.7.6",
     "uniqCompNum": 61,
-    "versionPublish": "5.1.4",
+    "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
     "imageResize": true,
     "favicon": false,
@@ -3563,6 +3563,9 @@
             },
             "P": {
               "color": "#7f1933"
+            },
+            ".b-descr": {
+              "color": "#767676"
             }
           },
           "_name": "services5",
